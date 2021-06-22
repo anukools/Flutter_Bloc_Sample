@@ -2,7 +2,7 @@ import 'package:bloc_sample_api/api/ApiBaseHelper.dart';
 import 'package:bloc_sample_api/api/MovieResponse.dart';
 
 class MovieRepository {
-  final String _apiKey = "Place API Keys";
+  final String _apiKey = "e6162997209c2eaf74a2ece035ed92a7";
 
   ApiBaseHelper _helper = ApiBaseHelper();
 
